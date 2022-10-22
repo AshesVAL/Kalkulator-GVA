@@ -1,6 +1,6 @@
 # Kalkulator-GVA
-**Kalkulator Gerak Vertikal ke Atas menggunakan MatLab**
-*Dibuat Oleh Bagas Prastomo (202143501105)*
+###### **Kalkulator Gerak Vertikal ke Atas menggunakan MatLab**
+###### *Dibuat Oleh Bagas Prastomo (202143501105)*
 
 ## Semua Tag Komponen Yang Ada Di Program
 
