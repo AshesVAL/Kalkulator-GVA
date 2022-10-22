@@ -1,0 +1,4 @@
+set(handles.vt,'string','');
+set(handles.t,'string','');
+set(handles.rumus,'string','');
+set(handles.hasil,'string','');
