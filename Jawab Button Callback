@@ -1,0 +1,22 @@
+vt=str2double(get(handles.vt,'string'));
+t=str2double(get(handles.t,'string'));
+g=str2double(get(handles.g,'string'));
+
+a=get(handles.vawal,'value');
+b=get(handles.tinggi,'value');
+
+vo=vt+g*t;
+h=vo^2/2*g;
+
+if (a==1)
+    set(handles.rumus,'string','Vo = Vt + g . t');
+    set(handles.hasil,'string',vo);
+    set(handles.aa,'string','Vo =');
+    set(handles.bb,'string','m/s');
+    
+else(b==1)
+    set(handles.rumus,'string','h = Vo^2 / 2 . g');
+    set(handles.hasil,'string',h);
+    set(handles.aa,'string','h =');
+    set(handles.bb,'string','m');
+end
