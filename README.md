@@ -5,7 +5,7 @@
 
 *Kalo bingung, Liat gambar [ini](https://drive.google.com/file/d/1F_5-wXwhBpWKIh0je1M_vyLb6VUXUTAy/view?usp=sharing)*
 
-<VT Textbox = vt/>
+#### VT Textbox = vt
 ### T Textbox = t
 ### G Textbox = g
 
