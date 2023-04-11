@@ -1,23 +1,14 @@
-# Kalkulator-GVA
-###### **Kalkulator Gerak Vertikal ke Atas menggunakan MatLab**
-###### *Dibuat Oleh Bagas Prastomo (202143501105)*
+# Kalkulator Gerak Vertikal ke Atas
+<p>
+  Sebuah program yang dibuat untuk mengkalkulasikan hasil dari sebuah pertanyaan tentang Gerak Vertikal ke Atas.
+  <br>
+  Dibuat dengan Matlab
+</p>
 
-## Semua Tag Komponen Yang Ada Di Program
+## Algoritma Yang Digunakan
+<p>
+  User menginput variabel berupa Vt (kecepatan benda saat t sekon) dan variabel t (waktu tempuh). Kemudian program akan mengkalkulasikan hasil dari jawaban sesuai dengan input dari radiobutton (V0 atau h). dengan rumus V0 = Vt+g*t dan h = V0*t-(1/2)*g*t^2
+</p>
 
-*Kalo bingung, Liat gambar [ini](https://drive.google.com/file/d/1F_5-wXwhBpWKIh0je1M_vyLb6VUXUTAy/view?usp=sharing)*
-
-##### VT Textbox = vt
-##### T Textbox = t
-##### G Textbox = g
-
-##### Vo Radiobutton = vawal
-##### H Radiobutton = tinggi
-
-##### Jawab Pushbutton = jawab
-##### Clear Pushbutton = clear
-
-##### Hasil Textbox = hasil
-##### Rumus Textbox = rumus
-
-##### Static Text1 = aa
-##### Static Text2 = bb
+## User Interface dan Keterangan Tag
+  ![Tux, the Linux mascot](UI.png)
