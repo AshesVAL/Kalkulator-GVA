@@ -5,7 +5,7 @@
 
 ## Algoritma Yang Digunakan
 <p>
-  User menginput variabel berupa Vt (kecepatan benda saat t sekon) dan variabel t (waktu tempuh). Kemudian program akan mengkalkulasikan hasil dari jawaban sesuai dengan input dari radiobutton (V0 atau h). dengan rumus V0 = Vt+g*t dan h = V0*t-(1/2)*g*t^2
+  User menginput variabel berupa Vt (kecepatan benda saat t sekon) dan variabel t (waktu tempuh). Kemudian program akan mengkalkulasikan hasil dari jawaban sesuai dengan input dari radiobutton (V0 atau h). dengan rumus V0 = Vt+g*t dan h = Vo^2/2*g
 </p>
 
 ## User Interface dan Keterangan Tag
