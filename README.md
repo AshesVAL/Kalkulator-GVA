@@ -1,8 +1,6 @@
 # Kalkulator Gerak Vertikal ke Atas
 <p>
-  Sebuah program yang dibuat untuk mengkalkulasikan hasil dari sebuah pertanyaan tentang Gerak Vertikal ke Atas.
-  <br>
-  Dibuat dengan Matlab
+  Sebuah program yang dibuat untuk mengkalkulasikan hasil dari sebuah pertanyaan tentang Gerak Vertikal ke Atas. Yang dibuat dengan Matlab.
 </p>
 
 ## Algoritma Yang Digunakan
@@ -11,4 +9,23 @@
 </p>
 
 ## User Interface dan Keterangan Tag
-  ![Tux, the Linux mascot](UI.png)
+### User Interface
+
+<img src="UI.png" alt="User Interface" align="left"/> </a>
+
+### Keterangan Tag
+
+#### Static Text and Textbox
+<p> Vt Textbox = vt </p>
+<p> t Textbox = t </p>
+<p> g Textbox = g </p>
+<p> Hasil Textbox = hasil </p>
+<p> Rumus Textbox = rumus </p>
+<p> StaticText1 = aa </p>
+<p> StaticText2 = bb </p>
+
+#### Buttons
+<p> Vo Radiobutton = vawal </p>
+<p> H Radiobutton = tinggi </p>
+<p> Jawab Pushbutton = jawab </p>
+<p> Clear Pushbutton = clear </p>
