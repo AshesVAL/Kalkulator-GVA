@@ -1,6 +1,6 @@
 # Kalkulator Gerak Vertikal ke Atas
 <p>
-  Sebuah program yang dibuat untuk mengkalkulasikan hasil dari sebuah pertanyaan tentang Gerak Vertikal ke Atas yang dibuat dengan Matlab.
+  Sebuah program yang dibuat untuk mengkalkulasikan hasil dari sebuah pertanyaan tentang Gerak Vertikal ke Atas yang dibuat dengan MatLab.
 </p>
 
 ## Algoritma Yang Digunakan
